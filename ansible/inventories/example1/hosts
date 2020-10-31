@@ -1,0 +1,5 @@
+[zookeeper]
+raspberry.example.com
+
+[kafka]
+raspberry.example.com

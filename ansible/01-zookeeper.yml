@@ -1,0 +1,5 @@
+- name: Zookeeper
+  hosts: zookeeper
+  tasks:
+  - name: Include Zookeeper Role
+    include_role: zookeeper

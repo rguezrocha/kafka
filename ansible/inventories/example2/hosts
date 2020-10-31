@@ -1,0 +1,9 @@
+[zookeeper]
+zookeeper-1.example.com
+zookeeper-2.example.com
+zookeeper-3.example.com
+
+[kafka]
+kafka-1.example.com
+kafka-2.example.com
+kafka-3.example.com
